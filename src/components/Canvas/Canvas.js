@@ -118,6 +118,7 @@ function Canvas() {
   //   ctx.stroke();
   //   ctx.beginPath();
   //   ctx.moveTo(e.clientX - e.offsetX, e.clientY - e.offsetY);
+  //new change
   // };
 
   // const finishDrawing = (e) => {
