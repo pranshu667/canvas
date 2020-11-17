@@ -1,0 +1,15 @@
+.navbar {
+  margin-left: 5%;
+  color: black;
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.action-buttons {
+  border-radius: 50%;
+  font-size: 24px;
+  margin: 5px;
+  padding: 6px;
+}

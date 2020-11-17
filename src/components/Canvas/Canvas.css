@@ -1,0 +1,20 @@
+.canvas {
+  width: 1300px;
+  height: 600px;
+  -webkit-box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
+  background-color: #2c2c31;
+  border-radius: 10px;
+  flex-grow: 6;
+}
+
+.first {
+  flex-grow: 1;
+}
+.last {
+  flex-grow: 1;
+}
+
+.canvascontainer {
+  display: flex;
+}

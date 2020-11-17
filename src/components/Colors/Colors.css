@@ -1,0 +1,23 @@
+.colors {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.colors div {
+  padding: 6px;
+  margin: 5px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+#yellow {
+  background-color: yellow;
+}

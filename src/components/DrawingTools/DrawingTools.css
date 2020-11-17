@@ -1,0 +1,12 @@
+.drawing-tools {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  flex-grow: 1;
+}
+
+.drawing-tools > * {
+  padding: 5px;
+  background-color: #2c2c31;
+  border-radius: 50%;
+}

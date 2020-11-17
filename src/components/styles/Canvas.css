@@ -1,0 +1,6 @@
+.canvas {
+  -webkit-box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
+  background-color: #2c2c31;
+  border-radius: 10px;
+}
